@@ -45,3 +45,5 @@ let z=0
 x1.reduce((accumulator, val) =>{
     [val].concat(accumulator)
 },[] )
+
+
