@@ -18,3 +18,6 @@ function Bubble(arr){
 
 const arr=[5,3,1,6,18,10,4,7,7,10,3]
 console.log(Bubble(arr));
+
+// time complexity o(n)^2
+// space complexity o(1)
